@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebManage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+741b8d87f033b23603e89e07d45460d36b79e013")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+639afcaf21cf5dda0e87f7c3cdecb496d0286fe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebManage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebManage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,6 +4,5 @@
 publish/
 node_modules/
 .vs/
-**WebManage/bin/
-/Api/WebManage/bin/Debug/netcoreapp3.1
-/Api/WebManage/obj/Debug/netcoreapp3.1/staticwebassets
+/Api/WebManage/bin/
+/Api/WebManage/obj/
