@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpace\\SP\\StartPrint\\Manage\\StartPrintManage\\StartPrintManage.csproj",
-      "projectName": "StartPrintManage",
-      "projectPath": "C:\\WorkSpace\\SP\\StartPrint\\Manage\\StartPrintManage\\StartPrintManage.csproj",
+      "projectUniqueName": "C:\\WorkSpace\\SP\\Api\\WebManage\\WebManage.csproj",
+      "projectName": "WebManage",
+      "projectPath": "C:\\WorkSpace\\SP\\Api\\WebManage\\WebManage.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkSpace\\SP\\StartPrint\\Manage\\StartPrintManage\\obj\\",
+      "outputPath": "C:\\WorkSpace\\SP\\Api\\WebManage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

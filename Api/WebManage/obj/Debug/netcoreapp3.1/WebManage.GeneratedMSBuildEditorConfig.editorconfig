@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = WebManage
+build_property.ProjectDir = C:\WorkSpace\SP\Api\WebManage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
